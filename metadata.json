@@ -1,0 +1,6 @@
+{
+  "name": "Automata Text Search & Pattern Matching System",
+  "description": "An automata-based text search and pattern matching engine using regular expressions, Thompson's NFA construction, and DFA execution to locate occurrences in large texts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
